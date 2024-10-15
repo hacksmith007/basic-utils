@@ -1,0 +1,3 @@
+[submodule "aetherLink-yang"]
+	path = aetherLink-yang
+	url = https://github.com/hacksmith007/AetherLink-yang
